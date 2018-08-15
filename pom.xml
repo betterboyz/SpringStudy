@@ -10,6 +10,10 @@
   <version>1.0.0</version>
   <modules>
     <module>designPattern</module>
+    <module>springAOP</module>
+    <module>springJDBC</module>
+    <module>springMVC</module>
+    <module>transcation</module>
   </modules>
 
 
